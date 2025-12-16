@@ -85,6 +85,11 @@ Full Stack Developer passionate about building scalable web applications with mo
 </td>
 </tr>
 <tr>
+<td style="width: 50%; text-align: left; vertical-align: top; padding: 15px;"><strong>Code Quality</strong><br><br>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+<a href="https://www.sonarsource.com/products/sonarqube" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="32" height="32" /></a>
+</div>
+</td>
 <td style="width: 50%; text-align: left; vertical-align: top; padding: 15px;"><strong>Version Control Systems</strong><br><br>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
 <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" /></a>
@@ -92,21 +97,22 @@ Full Stack Developer passionate about building scalable web applications with mo
 <a href="https://bitbucket.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="32" height="32" /></a>
 </div>
 </td>
+</tr>
+<tr>
 <td style="width: 50%; text-align: left; vertical-align: top; padding: 15px;"><strong>CI/CD</strong><br><br>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="32" height="32" /></a>
-<a href="https://www.sonarsource.com/products/sonarqube" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="32" height="32" /></a>
 <a href="https://www.sonatype.com/products/sonatype-nexus-repository" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_of_Sonatype_Nexus_Repository.svg/1001px-Logo_of_Sonatype_Nexus_Repository.svg.png?20240909111743" height="32" /></a>
 </div>
 </td>
-</tr>
-<tr>
 <td style="width: 50%; text-align: left; vertical-align: top; padding: 15px;"><strong>Web Servers</strong><br><br>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
 <a href="https://nginx.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="32" height="32" /></a>
 <a href="https://httpd.apache.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="32" height="32" /></a>
 </div>
 </td>
+</tr>
+<tr>
 <td style="width: 50%; text-align: left; vertical-align: top; padding: 15px;"><strong>Operating Systems</strong><br><br>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
 <a href="https://www.kernel.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="32" height="32" /></a>
@@ -118,8 +124,6 @@ Full Stack Developer passionate about building scalable web applications with mo
 <a href="https://www.apple.com/tr/os/macos/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/330px-MacOS_wordmark_%282017%29.svg.png" height="16" /></a>
 </div>
 </td>
-</tr>
-<tr>
 <td style="width: 50%; text-align: left; vertical-align: top; padding: 15px;" colspan="2"><strong>Agile & Others</strong><br><br>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="32" height="32" /></a>
