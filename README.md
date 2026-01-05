@@ -137,6 +137,3 @@ Full Stack Developer passionate about building scalable web applications with mo
 ## 📊 GitHub Stats
 
 ![Repo Count](https://img.shields.io/badge/dynamic/json?color=success&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsevketbuyukdemir)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevketbuyukdemir&layout=compact&theme=radical)
-
